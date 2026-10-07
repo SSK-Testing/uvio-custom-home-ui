@@ -1,0 +1,158 @@
+[
+  {
+    "id": "collection-audio",
+    "title": "🔊 Audio Languages",
+    "folders": [
+      {
+        "id": "audio-tamil",
+        "title": "🇮🇳 Tamil Audio",
+        "tileShape": "LANDSCAPE",
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.trending",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.trending",
+            "type": "series"
+          }
+        ]
+      },
+      {
+        "id": "audio-english",
+        "title": "🇺🇸 English Audio",
+        "tileShape": "LANDSCAPE",
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.trending",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.trending",
+            "type": "series"
+          }
+        ]
+      },
+      {
+        "id": "audio-malayalam",
+        "title": "🇮🇳 Malayalam Audio",
+        "tileShape": "LANDSCAPE",
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.trending",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.trending",
+            "type": "series"
+          }
+        ]
+      },
+      {
+        "id": "audio-hindi",
+        "title": "🇮🇳 Hindi Audio",
+        "tileShape": "LANDSCAPE",
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.trending",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.trending",
+            "type": "series"
+          }
+        ]
+      }
+    ],
+    "pinToTop": true,
+    "showAllTab": true,
+    "viewMode": "TABBED_GRID",
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-ott",
+    "title": "📺 OTT Platforms",
+    "folders": [
+      {
+        "id": "ott-netflix",
+        "title": "Netflix",
+        "tileShape": "LANDSCAPE",
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86752",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86751",
+            "type": "series"
+          }
+        ]
+      },
+      {
+        "id": "ott-prime",
+        "title": "Amazon Prime Video",
+        "tileShape": "LANDSCAPE",
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86755",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86753",
+            "type": "series"
+          }
+        ]
+      },
+      {
+        "id": "ott-crunchyroll",
+        "title": "Crunchyroll",
+        "tileShape": "LANDSCAPE",
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mal.airing",
+            "type": "anime"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "anilist.trending",
+            "type": "anime"
+          }
+        ]
+      }
+    ],
+    "pinToTop": true,
+    "showAllTab": true,
+    "viewMode": "TABBED_GRID",
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-content",
+    "title": "🎬 Content",
+    "folders": [
+      {
+        "id": "content-movies",
+        "title": "🎬 Movies",
+        "tileShape": "LANDSCAPE",
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.trending",
+            "type": "movie"
+          }
+        ]
+      },
+      {
+        "id":
